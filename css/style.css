@@ -7,3 +7,7 @@
 @import url('meniu.css');
 
 @import url('content.css');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
