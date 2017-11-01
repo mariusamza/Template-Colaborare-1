@@ -1,0 +1,35 @@
+.interior{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.meniu  {
+    background-color: #34495E;
+    height: 82px;
+
+
+}
+.meniu ul {
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+
+}
+
+.meniu ul li {
+   display: inline-block;
+
+
+}
+
+.meniu ul li a {
+ text-decoration: none;
+ color: #f1f1f1;
+ font-size: 16px;
+ position: relative;
+ padding: 30px  20px  30px 20px;
+ display: block;
+}
+.meniu img {
+  margin-top: 30px;
+}
