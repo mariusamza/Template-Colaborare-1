@@ -1,16 +1,9 @@
 
-.exterior {
-
-}
-
-.interior {
-    width: 1170px;
-    margin: 0 auto;
-}
 
 .content .interior {
     min-height: 400px;
-
+    width: 1170px;
+    margin: 0 auto;
 }
 
 .content .interior .text {
