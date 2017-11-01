@@ -1,0 +1,155 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 80px;
+
+}
+
+.header {
+		background-color: #CD4C47;
+}
+
+.header .interior {
+
+		width: 1170px;
+		height: 400px;
+		background-color: #CD4C47;
+		margin: 0 auto;
+		display: block;
+
+		display: flex;
+		justify-content: space-between;
+		align-content: center;
+
+
+}
+
+.arrow {
+
+	font-size: 50px;
+	color: #fff;
+	display: flex;
+	align-items: center;
+}
+
+
+
+.text {
+
+	text-align: center;
+	padding: 0px 225px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.title {
+	display: block;
+	align-items: center;
+	padding: 10px 10px 10px 10px;
+	border-bottom: 2px solid #fff;
+}
+
+h2 {
+		font-size: 30px;
+		font-weight: 700;
+
+		color: #fff;
+		text-transform: uppercase;
+
+}
+
+.header p {
+
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 25px;
+	border-top: 1px solid #fff;
+	padding-top: 20px;
+	margin-top: 20px;
+
+	color: #fff;
+}
+
+
+.button {
+		text-decoration: none;
+		font-size: 14px;
+		font-weight: 400;
+		color: #fff;
+
+		display: inline-block;
+
+		font-size: 14px;
+		font-weight: 400;
+
+		padding: 10px 20px;
+		margin-top: 50px;
+}
+
+.red {
+
+	border: 1px solid #fff;
+	background-color: #CD4C47;
+}
+
+.red:hover {
+
+	border: 1px solid #555;
+	background-color: #333;
+
+}
+
+.green {
+
+	border: 1px solid #fff;
+	margin-left: 3px;
+	background-color: #01b597;
+
+}
+
+.green:hover {
+
+	border: 1px solid #004c3f;
+	margin-left: 3px;
+	background-color: #005b4c;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*==========================================================*/
