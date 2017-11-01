@@ -1,0 +1,9 @@
+/* MAIN CSS FILE FOR THE PROJECT */
+
+@import url('reset.css');
+
+@import url('header.css');
+
+@import url('meniu.css');
+
+@import url('content.css');
